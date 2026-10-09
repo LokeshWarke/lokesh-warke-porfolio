@@ -3,8 +3,8 @@ export const profile={
   role:'Full-Stack Developer',
   tagline:'I build products from pixel → API → database → deployment.',
   email:'lokeshwarke6@gmail.com',
-  github:'https://github.com/yourusername',
-  linkedin:'https://linkedin.com/in/yourusername',
+  github:'https://github.com/Lokeshwarke',
+  linkedin:'https://linkedin.com/in/lokeshwarke14',
   location:'Pune / India',
   photoUrl:'', // Paste a publicly accessible image URL here, or update it in /admin.
   philosophy:'I do not want to be defined by one framework. I want to understand the whole product — interface, systems, data, infrastructure and the decisions connecting them.'
