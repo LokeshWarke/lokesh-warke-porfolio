@@ -6,7 +6,7 @@ export const profile={
   github:'https://github.com/Lokeshwarke',
   linkedin:'https://linkedin.com/in/lokeshwarke14',
   location:'Pune / India',
-  photoUrl:'', // Paste a publicly accessible image URL here, or update it in /admin.
+  photoUrl:'https://kommodo.ai/i/5dSykMIfIjbklye5s6I3',
   philosophy:'I do not want to be defined by one framework. I want to understand the whole product — interface, systems, data, infrastructure and the decisions connecting them.'
 };
 export const skills={Frontend:['React','Next.js','TypeScript','JavaScript','Tailwind CSS','HTML/CSS'],Backend:['Java','Spring Boot','Python','FastAPI','Node.js','REST APIs'],Data:['PostgreSQL','MySQL','MongoDB','Redis'],Cloud:['Docker','AWS','Linux','Git','CI/CD'],AI:['RAG','LLM APIs','LangChain','Vector Search']};
